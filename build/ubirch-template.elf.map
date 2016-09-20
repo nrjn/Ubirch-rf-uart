@@ -1,0 +1,1621 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+                              CMakeFiles/ubirch-template.dir/main.c.obj (delay_us)
+/home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(ws2812b.c.obj)
+                              CMakeFiles/ubirch-template.dir/main.c.obj (ws2812b_init)
+/home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(board.c.obj)
+                              CMakeFiles/ubirch-template.dir/main.c.obj (board_install_bootloader_hook)
+/home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj)
+                              CMakeFiles/ubirch-template.dir/main.c.obj (BOARD_BootClockRUN)
+/home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+                              CMakeFiles/ubirch-template.dir/main.c.obj (FLEXIO_GetDefaultConfig)
+/home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj) (SMC_SetPowerModeHsrun)
+/home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_pit.c.obj)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj) (PIT_Init)
+/home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+                              CMakeFiles/ubirch-template.dir/main.c.obj (LPUART_GetStatusFlags)
+/home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_gpio.c.obj)
+                              CMakeFiles/ubirch-template.dir/main.c.obj (GPIO_PinInit)
+/home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj) (CLOCK_SetSimConfig)
+/home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(startup_MK82F25615.S.obj)
+                              (Reset_Handler)
+/home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+                              CMakeFiles/ubirch-template.dir/main.c.obj (DbgConsole_Init)
+/home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(system_MK82F25615.c.obj)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(startup_MK82F25615.S.obj) (SystemInit)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_modf.o)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj) (modf)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj) (pow)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_pow.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o) (__ieee754_pow)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_sqrt.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_pow.o) (__ieee754_sqrt)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_fabs.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_pow.o) (fabs)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_finite.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o) (finite)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_lib_ver.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o) (__fdlib_version)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_matherr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o) (matherr)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_nan.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_pow.o) (nan)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_rint.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o) (rint)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_scalbn.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_pow.o) (scalbn)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_copysign.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_scalbn.o) (copysign)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-errno.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o) (__errno)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_float.o)
+                              (_printf_float)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_float.o) (_printf_common)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strlen.o)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj) (strlen)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj) (strtod)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-dtoa.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_float.o) (_dtoa_r)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-gethex.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o) (__gethex)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-hexnan.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o) (__match)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_float.o) (_localeconv_r)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-malloc.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-dtoa.o) (malloc)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memchr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o) (memchr)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy-stub.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o) (memcpy)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o) (_Balloc)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-callocr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o) (_calloc_r)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-freer.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-malloc.o) (_free_r)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-mallocr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-malloc.o) (_malloc_r)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sbrkr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sf_nan.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o) (nanf)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strcmp.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o) (strcmp)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strncmp.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o) (strncmp)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mlock.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-reent.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sbrkr.o) (errno)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj) (__aeabi_dsub)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj) (__aeabi_dmul)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj) (__aeabi_dcmpeq)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_unorddf2.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o) (__aeabi_dcmpun)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj) (__aeabi_d2iz)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixunsdfsi.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o) (__aeabi_d2uiz)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj) (__aeabi_d2f)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_ldivmod.o)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj) (__aeabi_ldivmod)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj) (__aeabi_uldivmod)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_fixdfdi.o)
+                              /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj) (__aeabi_d2lz)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_fixunsdfdi.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_fixdfdi.o) (__aeabi_d2ulz)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_dvmd_tls.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+/usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+ .data          0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .text          0x0000000000000000        0x0 CMakeFiles/ubirch-template.dir/main.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ubirch-template.dir/main.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ubirch-template.dir/main.c.obj
+ .text.send_to_subGHz
+                0x0000000000000000        0xc CMakeFiles/ubirch-template.dir/main.c.obj
+ .data.lpuart_config_default
+                0x0000000000000000        0xc CMakeFiles/ubirch-template.dir/main.c.obj
+ .text          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+ .data          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+ .bss           0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+ .text.timer_read
+                0x0000000000000000       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+ .text          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(ws2812b.c.obj)
+ .data          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(ws2812b.c.obj)
+ .bss           0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(ws2812b.c.obj)
+ .data.ws2812b_config_default
+                0x0000000000000000       0x10 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(ws2812b.c.obj)
+ .text          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(board.c.obj)
+ .data          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(board.c.obj)
+ .bss           0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(board.c.obj)
+ .text.board_rgb_led
+                0x0000000000000000        0x2 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(board.c.obj)
+ .text          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj)
+ .data          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj)
+ .bss           0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj)
+ .text.BOARD_BootClockVLPR
+                0x0000000000000000       0x4c /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj)
+ .text.BOARD_BootClockHSRUN
+                0x0000000000000000       0x64 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj)
+ .rodata.g_defaultClockConfigHsrun
+                0x0000000000000000       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj)
+ .rodata.g_defaultClockConfigVlpr
+                0x0000000000000000       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj)
+ .text          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .data          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .bss           0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .text.FLEXIO_Deinit
+                0x0000000000000000       0x18 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .text.FLEXIO_GetShifterBufferAddress
+                0x0000000000000000       0x3a /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .text.FLEXIO_RegisterHandleIRQ
+                0x0000000000000000       0x34 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .text.FLEXIO_UnregisterHandleIRQ
+                0x0000000000000000       0x38 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .text.FLEXIO_DriverIRQHandler
+                0x0000000000000000        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .text.UART2_FLEXIO_DriverIRQHandler
+                0x0000000000000000        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .text          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .data          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .bss           0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .text.SMC_SetPowerModeRun
+                0x0000000000000000        0xc /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .text.SMC_SetPowerModeHsrun
+                0x0000000000000000       0x10 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .text.SMC_SetPowerModeWait
+                0x0000000000000000       0x14 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .text.SMC_SetPowerModeStop
+                0x0000000000000000       0x38 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .text.SMC_SetPowerModeVlpr
+                0x0000000000000000       0x10 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .text.SMC_SetPowerModeVlpw
+                0x0000000000000000       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .text.SMC_SetPowerModeVlps
+                0x0000000000000000       0x30 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .text.SMC_SetPowerModeLls
+                0x0000000000000000       0x50 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .text.SMC_SetPowerModeVlls
+                0x0000000000000000       0x80 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .comment       0x0000000000000000       0x6f /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .ARM.attributes
+                0x0000000000000000       0x39 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_smc.c.obj)
+ .text          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_pit.c.obj)
+ .data          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_pit.c.obj)
+ .bss           0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_pit.c.obj)
+ .text.PIT_Deinit
+                0x0000000000000000       0x18 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_pit.c.obj)
+ .text          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .data          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .bss           0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_TransferIsRxRingBufferFull.isra.2
+                0x0000000000000000       0x2e /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_Deinit
+                0x0000000000000000       0x4c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_SetBaudRate
+                0x0000000000000000       0xa2 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_EnableInterrupts
+                0x0000000000000000       0x24 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_DisableInterrupts
+                0x0000000000000000       0x2a /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_TransferHandleIRQ
+                0x0000000000000000      0x1c8 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_GetEnabledInterrupts
+                0x0000000000000000       0x26 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_TransferCreateHandle
+                0x0000000000000000       0x6c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_TransferStartRingBuffer
+                0x0000000000000000       0x16 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_TransferStopRingBuffer
+                0x0000000000000000       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_TransferSendNonBlocking
+                0x0000000000000000       0x34 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_TransferAbortSend
+                0x0000000000000000       0x16 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_TransferGetSendCount
+                0x0000000000000000       0x1c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_TransferReceiveNonBlocking
+                0x0000000000000000       0xf2 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_TransferAbortReceive
+                0x0000000000000000       0x1c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_TransferGetReceiveCount
+                0x0000000000000000       0x1e /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART_TransferHandleErrorIRQ
+                0x0000000000000000        0x2 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART0_RX_TX_DriverIRQHandler
+                0x0000000000000000        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART1_RX_TX_DriverIRQHandler
+                0x0000000000000000        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART2_RX_TX_DriverIRQHandler
+                0x0000000000000000        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART3_RX_TX_DriverIRQHandler
+                0x0000000000000000        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text.LPUART4_RX_TX_DriverIRQHandler
+                0x0000000000000000        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .rodata.s_lpuartIRQ
+                0x0000000000000000        0x5 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .text          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_gpio.c.obj)
+ .data          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_gpio.c.obj)
+ .bss           0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_gpio.c.obj)
+ .text.GPIO_GetPinsInterruptFlags
+                0x0000000000000000       0x48 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_gpio.c.obj)
+ .text.GPIO_ClearPinsInterruptFlags
+                0x0000000000000000       0x48 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_gpio.c.obj)
+ .rodata.s_portBases
+                0x0000000000000000       0x14 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_gpio.c.obj)
+ .text          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .data          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .bss           0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_FllStableDelay
+                0x0000000000000000       0x18 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_GetOsc0ErClkFreq
+                0x0000000000000000        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_EnableUsbfs0Clock
+                0x0000000000000000       0xac /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_GetFlashClkFreq
+                0x0000000000000000       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_GetFlexBusClkFreq
+                0x0000000000000000       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_GetBusClkFreq
+                0x0000000000000000       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_GetCoreSysClkFreq
+                0x0000000000000000       0x1c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_GetPlatClkFreq
+                0x0000000000000000        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_CalcPllDiv
+                0x0000000000000000       0xc4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_SetOsc0MonitorMode
+                0x0000000000000000       0x38 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_SetRtcOscMonitorMode
+                0x0000000000000000       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_SetPll0MonitorMode
+                0x0000000000000000       0x38 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_GetStatusFlags
+                0x0000000000000000       0x34 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_ClearStatusFlags
+                0x0000000000000000       0x2c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_DeinitOsc0
+                0x0000000000000000       0x1c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_TrimInternalRefClk
+                0x0000000000000000       0xb4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_GetMode
+                0x0000000000000000       0x54 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_SetFeiMode
+                0x0000000000000000       0x5c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_SetFeeMode
+                0x0000000000000000       0x6c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_SetFbiMode
+                0x0000000000000000       0x68 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_SetFbeMode
+                0x0000000000000000       0x78 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_SetBlpeMode
+                0x0000000000000000       0x14 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_SetBlpiMode
+                0x0000000000000000        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_SetPeeMode
+                0x0000000000000000       0x1c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_ExternalModeToFbeModeQuick
+                0x0000000000000000       0x40 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_InternalModeToFbiModeQuick
+                0x0000000000000000       0x28 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_BootToFeiMode
+                0x0000000000000000        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_BootToFeeMode
+                0x0000000000000000       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_BootToBlpiMode
+                0x0000000000000000       0x38 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_BootToBlpeMode
+                0x0000000000000000       0x30 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_SetMcgConfig
+                0x0000000000000000      0x110 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .rodata.trimRange.6862
+                0x0000000000000000       0x10 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .rodata.mcgModeMatrix
+                0x0000000000000000       0x40 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .data          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(startup_MK82F25615.S.obj)
+ .bss           0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(startup_MK82F25615.S.obj)
+ .text          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+ .data          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+ .bss           0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+ .text.DbgConsole_ScanIgnoreWhiteSpace
+                0x0000000000000000       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+ .text.DbgConsole_Deinit
+                0x0000000000000000       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+ .text.DbgConsole_Getchar
+                0x0000000000000000       0x28 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+ .text.DbgConsole_Scanf
+                0x0000000000000000      0x400 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+ .text._write   0x0000000000000000       0x28 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+ .text._read    0x0000000000000000       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+ .text          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(system_MK82F25615.c.obj)
+ .data          0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(system_MK82F25615.c.obj)
+ .bss           0x0000000000000000        0x0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(system_MK82F25615.c.obj)
+ .text.SystemCoreClockUpdate
+                0x0000000000000000      0x174 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(system_MK82F25615.c.obj)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_modf.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_modf.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_modf.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_pow.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_pow.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_pow.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_sqrt.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_sqrt.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_sqrt.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_fabs.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_fabs.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_fabs.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_finite.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_finite.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_finite.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_lib_ver.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_lib_ver.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_lib_ver.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_matherr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_matherr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_matherr.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_nan.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_nan.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_nan.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_rint.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_rint.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_rint.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_scalbn.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_scalbn.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_scalbn.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_copysign.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_copysign.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_copysign.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_float.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_float.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_float.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text._printf_i
+                0x0000000000000000      0x24c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .rodata.str1.1
+                0x0000000000000000       0x22 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+ .text.sulp     0x0000000000000000       0x38 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+ .text._strtod_r
+                0x0000000000000000      0xc00 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+ .text.strtod   0x0000000000000000       0x10 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+ .text.strtof   0x0000000000000000       0x40 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+ .rodata.fpinan.5403
+                0x0000000000000000       0x14 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+ .rodata.str1.1
+                0x0000000000000000        0xc /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+ .rodata.fpi.5367
+                0x0000000000000000       0x14 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+ .rodata.tinytens
+                0x0000000000000000       0x28 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+ .debug_frame   0x0000000000000000       0x94 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strtod.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-dtoa.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-dtoa.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-dtoa.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .text.rshift   0x0000000000000000       0x6c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .text.__hexdig_fun
+                0x0000000000000000       0x2a /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .text.__gethex
+                0x0000000000000000      0x43e /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .debug_frame   0x0000000000000000       0x70 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .text.L_shift  0x0000000000000000       0x24 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .text.__match  0x0000000000000000       0x26 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .text.__hexnan
+                0x0000000000000000      0x11c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .debug_frame   0x0000000000000000       0x74 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x0000000000000000       0x38 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .text.__locale_charset
+                0x0000000000000000        0x8 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x0000000000000000        0xc /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .text.__locale_msgcharset
+                0x0000000000000000        0x8 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .text.__locale_cjk_lang
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .text.setlocale
+                0x0000000000000000       0x10 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .text.localeconv
+                0x0000000000000000        0x8 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .data.lc_message_charset
+                0x0000000000000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .bss.__nlocale_changed
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .bss.__mlocale_changed
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .data.lc_ctype_charset
+                0x0000000000000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .data.__mb_cur_max
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-malloc.o)
+ .text.free     0x0000000000000000       0x10 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-malloc.o)
+ .text          0x0000000000000000       0xa0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memchr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x0000000000000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memchr.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ .text.__s2b    0x0000000000000000       0x7c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ .text.__ulp    0x0000000000000000       0x50 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ .text.__b2d    0x0000000000000000       0x9a /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ .text.__ratio  0x0000000000000000       0x54 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ .text._mprec_log10
+                0x0000000000000000       0x38 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ .text.__copybits
+                0x0000000000000000       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ .text.__any_on
+                0x0000000000000000       0x44 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ .rodata.__mprec_tinytens
+                0x0000000000000000       0x28 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-callocr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-callocr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-callocr.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x0000000000000000       0x9c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000000000       0x38 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sf_nan.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sf_nan.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sf_nan.o)
+ .text.nanf     0x0000000000000000        0xc /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sf_nan.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sf_nan.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sf_nan.o)
+ .text          0x0000000000000000       0x14 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strcmp.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strcmp.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000000000000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strcmp.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strncmp.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strncmp.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strncmp.o)
+ .text.strncmp  0x0000000000000000       0x2a /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strncmp.o)
+ .debug_frame   0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strncmp.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_unorddf2.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_unorddf2.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x0000000000000000       0xa0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x22 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_fixdfdi.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_fixdfdi.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_fixunsdfdi.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_fixunsdfdi.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x0000000000000000 0x00000000000003c0 xr
+m_bootloader_config 0x00000000000003c0 0x0000000000000040 xr
+m_flash_config   0x0000000000000400 0x0000000000000010 xr
+m_text           0x0000000000000410 0x000000000003fbf0 xr
+m_data           0x000000001fff0000 0x0000000000010000 rw
+m_data_2         0x0000000020000000 0x0000000000030000 rw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+START GROUP
+LOAD CMakeFiles/ubirch-template.dir/main.c.obj
+LOAD /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a
+LOAD /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a
+LOAD /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/sdmmc.a
+LOAD /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a
+                0x0000000000002000                __stack_size__ = 0x2000
+                0x0000000000002000                __heap_size__ = 0x2000
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a
+END GROUP
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a
+END GROUP
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a
+END GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+                0x0000000000000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x0000000000000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+                0x0000000000000000                M_VECTOR_RAM_SIZE = DEFINED (__ram_vector_table__)?0x3c0:0x0
+
+.interrupts     0x0000000000000000      0x3c0
+                0x0000000000000000                __VECTOR_TABLE = .
+                0x0000000000000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000      0x3c0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(startup_MK82F25615.S.obj)
+                0x0000000000000000                __isr_vector
+                0x00000000000003c0                . = ALIGN (0x4)
+
+.bootloader_config
+                0x00000000000003c0        0x0
+                0x00000000000003c0                . = ALIGN (0x4)
+ *(.BootloaderConfig)
+                0x00000000000003c0                . = ALIGN (0x4)
+
+.flash_config   0x0000000000000400       0x10
+                0x0000000000000400                . = ALIGN (0x4)
+ *(.FlashConfig)
+ .FlashConfig   0x0000000000000400       0x10 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(startup_MK82F25615.S.obj)
+                0x0000000000000410                . = ALIGN (0x4)
+
+.text           0x0000000000000410     0x5868
+                0x0000000000000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000000000410       0x5c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .text          0x000000000000046c       0x74 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+                0x000000000000046c                _mainCRTStartup
+                0x000000000000046c                _start
+ .text          0x00000000000004e0      0x198 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(startup_MK82F25615.S.obj)
+                0x00000000000004e0                Reset_Handler
+                0x000000000000053c                Reserved96_IRQHandler
+                0x000000000000053c                Reserved111_IRQHandler
+                0x000000000000053c                DebugMon_Handler
+                0x000000000000053c                Reserved88_IRQHandler
+                0x000000000000053c                DMA13_DMA29_DriverIRQHandler
+                0x000000000000053c                PIT0CH2_IRQHandler
+                0x000000000000053c                SPI1_DriverIRQHandler
+                0x000000000000053c                Reserved85_IRQHandler
+                0x000000000000053c                DMA_Error_DriverIRQHandler
+                0x000000000000053c                Reserved114_IRQHandler
+                0x000000000000053c                Reserved89_IRQHandler
+                0x000000000000053c                SDHC_DriverIRQHandler
+                0x000000000000053c                Reserved99_IRQHandler
+                0x000000000000053c                DMA7_DMA23_DriverIRQHandler
+                0x000000000000053c                Reserved119_IRQHandler
+                0x000000000000053c                I2C3_DriverIRQHandler
+                0x000000000000053c                LLWU_IRQHandler
+                0x000000000000053c                I2S0_Tx_DriverIRQHandler
+                0x000000000000053c                Reserved84_IRQHandler
+                0x000000000000053c                TSI0_IRQHandler
+                0x000000000000053c                Reserved92_IRQHandler
+                0x000000000000053c                DMA14_DMA30_DriverIRQHandler
+                0x000000000000053c                I2C2_DriverIRQHandler
+                0x000000000000053c                SWI_IRQHandler
+                0x000000000000053c                ADC0_IRQHandler
+                0x000000000000053c                EMVSIM0_IRQHandler
+                0x000000000000053c                UsageFault_Handler
+                0x000000000000053c                CMT_IRQHandler
+                0x000000000000053c                QuadSPI0_DriverIRQHandler
+                0x000000000000053c                DMA0_DMA16_DriverIRQHandler
+                0x000000000000053c                DefaultISR
+                0x000000000000053c                DMA2_DMA18_DriverIRQHandler
+                0x000000000000053c                Reserved82_IRQHandler
+                0x000000000000053c                CMP1_IRQHandler
+                0x000000000000053c                Reserved71_IRQHandler
+                0x000000000000053c                PORTD_IRQHandler
+                0x000000000000053c                PORTB_IRQHandler
+                0x000000000000053c                SPI2_DriverIRQHandler
+                0x000000000000053c                TPM2_IRQHandler
+                0x000000000000053c                RTC_IRQHandler
+                0x000000000000053c                PDB0_IRQHandler
+                0x000000000000053c                FTM1_IRQHandler
+                0x000000000000053c                DMA12_DMA28_DriverIRQHandler
+                0x000000000000053c                PIT0CH0_IRQHandler
+                0x000000000000053c                Reserved95_IRQHandler
+                0x000000000000053c                Reserved121_IRQHandler
+                0x000000000000053c                RTC_Seconds_IRQHandler
+                0x000000000000053c                MCG_IRQHandler
+                0x000000000000053c                DMA10_DMA26_DriverIRQHandler
+                0x000000000000053c                Reserved108_IRQHandler
+                0x000000000000053c                TRNG0_IRQHandler
+                0x000000000000053c                Reserved117_IRQHandler
+                0x000000000000053c                Reserved110_IRQHandler
+                0x000000000000053c                Read_Collision_IRQHandler
+                0x000000000000053c                LTC0_IRQHandler
+                0x000000000000053c                DMA1_DMA17_DriverIRQHandler
+                0x000000000000053c                Reserved98_IRQHandler
+                0x000000000000053c                Reserved102_IRQHandler
+                0x000000000000053c                USBDCD_IRQHandler
+                0x000000000000053c                DMA8_DMA24_DriverIRQHandler
+                0x000000000000053c                DMA6_DMA22_DriverIRQHandler
+                0x000000000000053c                I2S0_Rx_DriverIRQHandler
+                0x000000000000053c                Reserved101_IRQHandler
+                0x000000000000053c                USB0_IRQHandler
+                0x000000000000053c                WDOG_EWM_IRQHandler
+                0x000000000000053c                MemManage_Handler
+                0x000000000000053c                Reserved83_IRQHandler
+                0x000000000000053c                Reserved115_IRQHandler
+                0x000000000000053c                DMA11_DMA27_DriverIRQHandler
+                0x000000000000053c                Reserved109_IRQHandler
+                0x000000000000053c                DMA4_DMA20_DriverIRQHandler
+                0x000000000000053c                DMA9_DMA25_DriverIRQHandler
+                0x000000000000053c                Reserved100_IRQHandler
+                0x000000000000053c                EMVSIM1_IRQHandler
+                0x000000000000053c                I2C1_DriverIRQHandler
+                0x000000000000053c                Reserved91_IRQHandler
+                0x000000000000053c                DAC0_IRQHandler
+                0x000000000000053c                Reserved118_IRQHandler
+                0x000000000000053c                DMA3_DMA19_DriverIRQHandler
+                0x000000000000053c                Reserved94_IRQHandler
+                0x000000000000053c                Reserved112_IRQHandler
+                0x000000000000053c                SPI0_DriverIRQHandler
+                0x000000000000053c                TPM1_IRQHandler
+                0x000000000000053c                Reserved106_IRQHandler
+                0x000000000000053c                LVD_LVW_IRQHandler
+                0x000000000000053c                FTM0_IRQHandler
+                0x000000000000053c                Reserved51_IRQHandler
+                0x000000000000053c                PORTA_IRQHandler
+                0x000000000000053c                MCM_IRQHandler
+                0x000000000000053c                FTFA_IRQHandler
+                0x000000000000053c                FTM3_IRQHandler
+                0x000000000000053c                PORTE_IRQHandler
+                0x000000000000053c                DMA5_DMA21_DriverIRQHandler
+                0x000000000000053c                FTM2_IRQHandler
+                0x000000000000053c                BusFault_Handler
+                0x000000000000053c                DMA15_DMA31_DriverIRQHandler
+                0x000000000000053c                PIT0CH1_IRQHandler
+                0x000000000000053c                Reserved93_IRQHandler
+                0x000000000000053c                I2C0_DriverIRQHandler
+                0x000000000000053c                CMP0_IRQHandler
+                0x000000000000053c                Reserved52_IRQHandler
+                0x000000000000053c                PORTC_IRQHandler
+                0x000000000000053c                LPTMR0_LPTMR1_IRQHandler
+                0x000000000000053c                Reserved122_IRQHandler
+                0x000000000000053c                Reserved113_IRQHandler
+                0x0000000000000544                HardFault_Handler
+                0x0000000000000548                SVC_Handler
+                0x000000000000054c                PendSV_Handler
+                0x0000000000000550                SysTick_Handler
+                0x0000000000000554                DMA0_DMA16_IRQHandler
+                0x0000000000000558                DMA1_DMA17_IRQHandler
+                0x000000000000055c                DMA2_DMA18_IRQHandler
+                0x0000000000000560                DMA3_DMA19_IRQHandler
+                0x0000000000000564                DMA4_DMA20_IRQHandler
+                0x0000000000000568                DMA5_DMA21_IRQHandler
+                0x000000000000056c                DMA6_DMA22_IRQHandler
+                0x0000000000000570                DMA7_DMA23_IRQHandler
+                0x0000000000000574                DMA8_DMA24_IRQHandler
+                0x0000000000000578                DMA9_DMA25_IRQHandler
+                0x000000000000057c                DMA10_DMA26_IRQHandler
+                0x0000000000000580                DMA11_DMA27_IRQHandler
+                0x0000000000000584                DMA12_DMA28_IRQHandler
+                0x0000000000000588                DMA13_DMA29_IRQHandler
+                0x000000000000058c                DMA14_DMA30_IRQHandler
+                0x0000000000000590                DMA15_DMA31_IRQHandler
+                0x0000000000000594                DMA_Error_IRQHandler
+                0x0000000000000598                I2C0_IRQHandler
+                0x000000000000059c                I2C1_IRQHandler
+                0x00000000000005a0                SPI0_IRQHandler
+                0x00000000000005a4                SPI1_IRQHandler
+                0x00000000000005a8                I2S0_Tx_IRQHandler
+                0x00000000000005ac                I2S0_Rx_IRQHandler
+                0x00000000000005b0                LPUART0_IRQHandler
+                0x00000000000005b4                LPUART1_IRQHandler
+                0x00000000000005b8                LPUART2_IRQHandler
+                0x00000000000005bc                LPUART3_IRQHandler
+                0x00000000000005c0                LPUART4_IRQHandler
+                0x00000000000005c4                SPI2_IRQHandler
+                0x00000000000005c8                FLEXIO0_IRQHandler
+                0x00000000000005cc                I2C2_IRQHandler
+                0x00000000000005d0                SDHC_IRQHandler
+                0x00000000000005d4                I2C3_IRQHandler
+                0x00000000000005d8                QuadSPI0_IRQHandler
+ .text          0x0000000000000678       0x10 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strlen.o)
+                0x0000000000000678                strlen
+ .text          0x0000000000000688      0x370 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+                0x0000000000000688                __aeabi_drsub
+                0x0000000000000690                __aeabi_dsub
+                0x0000000000000690                __subdf3
+                0x0000000000000694                __adddf3
+                0x0000000000000694                __aeabi_dadd
+                0x000000000000090c                __aeabi_ui2d
+                0x000000000000090c                __floatunsidf
+                0x000000000000092c                __floatsidf
+                0x000000000000092c                __aeabi_i2d
+                0x0000000000000950                __extendsfdf2
+                0x0000000000000950                __aeabi_f2d
+                0x000000000000098c                __aeabi_ul2d
+                0x000000000000098c                __floatundidf
+                0x000000000000099c                __floatdidf
+                0x000000000000099c                __aeabi_l2d
+ .text          0x00000000000009f8      0x424 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+                0x00000000000009f8                __aeabi_dmul
+                0x00000000000009f8                __muldf3
+                0x0000000000000c4c                __aeabi_ddiv
+                0x0000000000000c4c                __divdf3
+ .text          0x0000000000000e1c      0x110 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+                0x0000000000000e1c                __gtdf2
+                0x0000000000000e1c                __gedf2
+                0x0000000000000e24                __ltdf2
+                0x0000000000000e24                __ledf2
+                0x0000000000000e2c                __cmpdf2
+                0x0000000000000e2c                __eqdf2
+                0x0000000000000e2c                __nedf2
+                0x0000000000000ea8                __aeabi_cdrcmple
+                0x0000000000000eb8                __aeabi_cdcmple
+                0x0000000000000eb8                __aeabi_cdcmpeq
+                0x0000000000000ec8                __aeabi_dcmpeq
+                0x0000000000000edc                __aeabi_dcmplt
+                0x0000000000000ef0                __aeabi_dcmple
+                0x0000000000000f04                __aeabi_dcmpge
+                0x0000000000000f18                __aeabi_dcmpgt
+ .text          0x0000000000000f2c       0x2c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_unorddf2.o)
+                0x0000000000000f2c                __aeabi_dcmpun
+                0x0000000000000f2c                __unorddf2
+ .text          0x0000000000000f58       0x50 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+                0x0000000000000f58                __fixdfsi
+                0x0000000000000f58                __aeabi_d2iz
+ .text          0x0000000000000fa8       0x40 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixunsdfsi.o)
+                0x0000000000000fa8                __fixunsdfsi
+                0x0000000000000fa8                __aeabi_d2uiz
+ .text          0x0000000000000fe8       0xa0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_ldivmod.o)
+                0x0000000000000fe8                __aeabi_ldivmod
+ .text          0x0000000000001088       0x30 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o)
+                0x0000000000001088                __aeabi_uldivmod
+ .text          0x00000000000010b8       0x30 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_fixdfdi.o)
+                0x00000000000010b8                __aeabi_d2lz
+                0x00000000000010b8                __fixdfdi
+ .text          0x00000000000010e8       0x48 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_fixunsdfdi.o)
+                0x00000000000010e8                __aeabi_d2ulz
+                0x00000000000010e8                __fixunsdfdi
+ .text          0x0000000000001130      0x2e4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+                0x0000000000001130                __udivmoddi4
+ .text          0x0000000000001414        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_dvmd_tls.o)
+                0x0000000000001414                __aeabi_ldiv0
+                0x0000000000001414                __aeabi_idiv0
+ *(.text*)
+ .text.init_led
+                0x0000000000001418       0x78 CMakeFiles/ubirch-template.dir/main.c.obj
+                0x0000000000001418                init_led
+ .text.startup.main
+                0x0000000000001490      0x150 CMakeFiles/ubirch-template.dir/main.c.obj
+                0x0000000000001490                main
+ .text.PIT0CH3_IRQHandler
+                0x00000000000015e0       0x34 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+                0x00000000000015e0                PIT0CH3_IRQHandler
+ .text.timer_init
+                0x0000000000001614       0xa0 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+                0x0000000000001614                timer_init
+ .text.timer_set_interrupt
+                0x00000000000016b4       0x5c /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+                0x00000000000016b4                timer_set_interrupt
+ .text.timer_set_timeout
+                0x0000000000001710        0x8 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+                0x0000000000001710                timer_set_timeout
+ .text.timer_timeout_remaining
+                0x0000000000001718       0x28 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+                0x0000000000001718                timer_timeout_remaining
+ .text.delay_us
+                0x0000000000001740       0x2a /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+                0x0000000000001740                delay_us
+ *fill*         0x000000000000176a        0x2 
+ .text.delay    0x000000000000176c       0x18 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+                0x000000000000176c                delay
+ *fill*         0x0000000000001784        0x4 
+ .text.ws2812b_init
+                0x0000000000001788      0x1c4 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(ws2812b.c.obj)
+                0x0000000000001788                ws2812b_init
+ .text.ws2812b_send
+                0x000000000000194c       0x74 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(ws2812b.c.obj)
+                0x000000000000194c                ws2812b_send
+ .text.board_install_bootloader_hook
+                0x00000000000019c0       0x14 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(board.c.obj)
+                0x00000000000019c0                board_install_bootloader_hook
+ .text.NMI_Handler
+                0x00000000000019d4        0xc /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(board.c.obj)
+                0x00000000000019d4                NMI_Handler
+ .text.BOARD_BootClockRUN
+                0x00000000000019e0       0x50 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj)
+                0x00000000000019e0                BOARD_BootClockRUN
+ .text.FLEXIO_GetDefaultConfig
+                0x0000000000001a30        0xe /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+                0x0000000000001a30                FLEXIO_GetDefaultConfig
+ .text.FLEXIO_Reset
+                0x0000000000001a3e        0xe /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+                0x0000000000001a3e                FLEXIO_Reset
+ .text.FLEXIO_Init
+                0x0000000000001a4c       0x40 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+                0x0000000000001a4c                FLEXIO_Init
+ .text.FLEXIO_SetShifterConfig
+                0x0000000000001a8c       0x6a /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+                0x0000000000001a8c                FLEXIO_SetShifterConfig
+ .text.FLEXIO_SetTimerConfig
+                0x0000000000001af6       0x9a /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+                0x0000000000001af6                FLEXIO_SetTimerConfig
+ .text.FLEXIO_CommonIRQHandler
+                0x0000000000001b90       0x34 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+                0x0000000000001b90                FLEXIO_CommonIRQHandler
+ .text.FLEXIO0_DriverIRQHandler
+                0x0000000000001bc4        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+                0x0000000000001bc4                FLEXIO0_DriverIRQHandler
+ .text.PIT_Init
+                0x0000000000001bc8       0x2c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_pit.c.obj)
+                0x0000000000001bc8                PIT_Init
+ .text.LPUART_GetInstance
+                0x0000000000001bf4       0x40 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+                0x0000000000001bf4                LPUART_GetInstance
+ .text.LPUART_Init
+                0x0000000000001c34      0x130 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+                0x0000000000001c34                LPUART_Init
+ .text.LPUART_GetDefaultConfig
+                0x0000000000001d64       0x16 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+                0x0000000000001d64                LPUART_GetDefaultConfig
+ .text.LPUART_GetStatusFlags
+                0x0000000000001d7a        0xe /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+                0x0000000000001d7a                LPUART_GetStatusFlags
+ .text.LPUART_ClearStatusFlags
+                0x0000000000001d88       0x40 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+                0x0000000000001d88                LPUART_ClearStatusFlags
+ .text.LPUART_WriteBlocking
+                0x0000000000001dc8       0x16 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+                0x0000000000001dc8                LPUART_WriteBlocking
+ .text.LPUART_ReadBlocking
+                0x0000000000001dde       0x72 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+                0x0000000000001dde                LPUART_ReadBlocking
+ .text.LPUART0_DriverIRQHandler
+                0x0000000000001e50       0x18 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+                0x0000000000001e50                LPUART0_DriverIRQHandler
+ .text.LPUART1_DriverIRQHandler
+                0x0000000000001e68       0x18 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+                0x0000000000001e68                LPUART1_DriverIRQHandler
+ .text.LPUART2_DriverIRQHandler
+                0x0000000000001e80       0x18 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+                0x0000000000001e80                LPUART2_DriverIRQHandler
+ .text.LPUART3_DriverIRQHandler
+                0x0000000000001e98       0x18 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+                0x0000000000001e98                LPUART3_DriverIRQHandler
+ .text.LPUART4_DriverIRQHandler
+                0x0000000000001eb0       0x18 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+                0x0000000000001eb0                LPUART4_DriverIRQHandler
+ .text.GPIO_PinInit
+                0x0000000000001ec8       0x2a /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_gpio.c.obj)
+                0x0000000000001ec8                GPIO_PinInit
+ *fill*         0x0000000000001ef2        0x2 
+ .text.CLOCK_GetMcgExtClkFreq
+                0x0000000000001ef4       0x34 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_GetFllRefClkFreq
+                0x0000000000001f28       0x54 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_GetInternalRefClkSelectFreq
+                0x0000000000001f7c       0x2c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .text.CLOCK_GetOsc0ErClkUndivFreq
+                0x0000000000001fa8       0x18 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x0000000000001fa8                CLOCK_GetOsc0ErClkUndivFreq
+ .text.CLOCK_GetOsc0ErClkDivFreq
+                0x0000000000001fc0       0x24 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x0000000000001fc0                CLOCK_GetOsc0ErClkDivFreq
+ .text.CLOCK_GetEr32kClkFreq
+                0x0000000000001fe4       0x40 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x0000000000001fe4                CLOCK_GetEr32kClkFreq
+ .text.CLOCK_SetSimConfig
+                0x0000000000002024       0x50 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x0000000000002024                CLOCK_SetSimConfig
+ .text.CLOCK_GetFllFreq
+                0x0000000000002074       0x3c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x0000000000002074                CLOCK_GetFllFreq
+ .text.CLOCK_GetInternalRefClkFreq
+                0x00000000000020b0       0x18 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x00000000000020b0                CLOCK_GetInternalRefClkFreq
+ .text.CLOCK_GetPll0Freq
+                0x00000000000020c8       0x34 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x00000000000020c8                CLOCK_GetPll0Freq
+ .text.CLOCK_GetPllFllSelClkFreq
+                0x00000000000020fc       0x4c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x00000000000020fc                CLOCK_GetPllFllSelClkFreq
+ .text.CLOCK_GetOutClkFreq
+                0x0000000000002148       0x28 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x0000000000002148                CLOCK_GetOutClkFreq
+ .text.CLOCK_GetFixedFreqClkFreq
+                0x0000000000002170       0x1c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x0000000000002170                CLOCK_GetFixedFreqClkFreq
+ .text.CLOCK_GetFreq
+                0x000000000000218c       0xc0 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x000000000000218c                CLOCK_GetFreq
+ .text.CLOCK_SetExternalRefClkConfig
+                0x000000000000224c       0x40 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x000000000000224c                CLOCK_SetExternalRefClkConfig
+ .text.CLOCK_SetInternalRefClkConfig
+                0x000000000000228c       0x80 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x000000000000228c                CLOCK_SetInternalRefClkConfig
+ .text.CLOCK_EnablePll0
+                0x000000000000230c       0x34 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x000000000000230c                CLOCK_EnablePll0
+ .text.CLOCK_InitOsc0
+                0x0000000000002340       0x6c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x0000000000002340                CLOCK_InitOsc0
+ .text.CLOCK_SetPbeMode
+                0x00000000000023ac       0x54 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x00000000000023ac                CLOCK_SetPbeMode
+ .text.CLOCK_BootToPeeMode
+                0x0000000000002400       0x30 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x0000000000002400                CLOCK_BootToPeeMode
+ .text.DbgConsole_Putchar
+                0x0000000000002430       0x24 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+                0x0000000000002430                DbgConsole_Putchar
+ .text.DbgConsole_Init
+                0x0000000000002454       0x5c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+                0x0000000000002454                DbgConsole_Init
+ .text.DbgConsole_Printf
+                0x00000000000024b0      0x840 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+                0x00000000000024b0                DbgConsole_Printf
+ .text.SystemInit
+                0x0000000000002cf0       0x2c /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(system_MK82F25615.c.obj)
+                0x0000000000002cf0                SystemInit
+ .text.modf     0x0000000000002d1c       0xb0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_modf.o)
+                0x0000000000002d1c                modf
+ *fill*         0x0000000000002dcc        0x4 
+ .text.pow      0x0000000000002dd0      0x338 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o)
+                0x0000000000002dd0                pow
+ .text.__ieee754_pow
+                0x0000000000003108      0xb10 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_pow.o)
+                0x0000000000003108                __ieee754_pow
+ .text.__ieee754_sqrt
+                0x0000000000003c18      0x1a0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_sqrt.o)
+                0x0000000000003c18                __ieee754_sqrt
+ .text.fabs     0x0000000000003db8       0x10 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_fabs.o)
+                0x0000000000003db8                fabs
+ .text.finite   0x0000000000003dc8       0x10 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_finite.o)
+                0x0000000000003dc8                finite
+ .text.matherr  0x0000000000003dd8        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_matherr.o)
+                0x0000000000003dd8                matherr
+ *fill*         0x0000000000003ddc        0x4 
+ .text.nan      0x0000000000003de0       0x10 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_nan.o)
+                0x0000000000003de0                nan
+ .text.rint     0x0000000000003df0      0x128 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_rint.o)
+                0x0000000000003df0                rint
+ .text.scalbn   0x0000000000003f18      0x10c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_scalbn.o)
+                0x0000000000003f18                scalbn
+ .text.copysign
+                0x0000000000004024       0x1c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_copysign.o)
+                0x0000000000004024                copysign
+ .text.__errno  0x0000000000004040        0xc /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-errno.o)
+                0x0000000000004040                __errno
+ .text.exit     0x000000000000404c       0x28 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+                0x000000000000404c                exit
+ .text.__libc_init_array
+                0x0000000000004074       0x4c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+                0x0000000000004074                __libc_init_array
+ .text.memset   0x00000000000040c0       0x10 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+                0x00000000000040c0                memset
+ .text.__cvt    0x00000000000040d0       0xc8 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_float.o)
+                0x00000000000040d0                __cvt
+ .text.__exponent
+                0x0000000000004198       0x60 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_float.o)
+                0x0000000000004198                __exponent
+ .text._printf_float
+                0x00000000000041f8      0x47c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_float.o)
+                0x00000000000041f8                _printf_float
+ .text._printf_common
+                0x0000000000004674       0xec /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000004674                _printf_common
+ .text.quorem   0x0000000000004760      0x11e /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-dtoa.o)
+ *fill*         0x000000000000487e        0x2 
+ .text._dtoa_r  0x0000000000004880      0xb40 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-dtoa.o)
+                0x0000000000004880                _dtoa_r
+ .text._localeconv_r
+                0x00000000000053c0        0x8 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+                0x00000000000053c0                _localeconv_r
+ .text.malloc   0x00000000000053c8       0x10 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-malloc.o)
+                0x00000000000053c8                malloc
+ .text.memcpy   0x00000000000053d8       0x16 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy-stub.o)
+                0x00000000000053d8                memcpy
+ .text._Balloc  0x00000000000053ee       0x6a /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x00000000000053ee                _Balloc
+ .text._Bfree   0x0000000000005458       0x2e /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x0000000000005458                _Bfree
+ .text.__multadd
+                0x0000000000005486       0x76 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x0000000000005486                __multadd
+ .text.__hi0bits
+                0x00000000000054fc       0x40 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x00000000000054fc                __hi0bits
+ .text.__lo0bits
+                0x000000000000553c       0x5a /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x000000000000553c                __lo0bits
+ .text.__i2b    0x0000000000005596       0x12 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x0000000000005596                __i2b
+ .text.__multiply
+                0x00000000000055a8      0x122 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x00000000000055a8                __multiply
+ *fill*         0x00000000000056ca        0x2 
+ .text.__pow5mult
+                0x00000000000056cc       0x9c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x00000000000056cc                __pow5mult
+ .text.__lshift
+                0x0000000000005768       0xa2 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x0000000000005768                __lshift
+ .text.__mcmp   0x000000000000580a       0x38 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x000000000000580a                __mcmp
+ .text.__mdiff  0x0000000000005842       0xbe /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x0000000000005842                __mdiff
+ .text.__d2b    0x0000000000005900       0x9c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x0000000000005900                __d2b
+ .text._calloc_r
+                0x000000000000599c       0x1c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-callocr.o)
+                0x000000000000599c                _calloc_r
+ .text._malloc_r
+                0x00000000000059b8       0xbc /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-mallocr.o)
+                0x00000000000059b8                _malloc_r
+ .text._sbrk_r  0x0000000000005a74       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sbrkr.o)
+                0x0000000000005a74                _sbrk_r
+ .text.__malloc_lock
+                0x0000000000005a94        0x2 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mlock.o)
+                0x0000000000005a94                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000000005a96        0x2 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mlock.o)
+                0x0000000000005a96                __malloc_unlock
+ .text._sbrk    0x0000000000005a98       0x1c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+                0x0000000000005a98                _sbrk
+ .text._exit    0x0000000000005ab4        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+                0x0000000000005ab4                _exit
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000000005ab8       0x17 CMakeFiles/ubirch-template.dir/main.c.obj
+ *fill*         0x0000000000005acf        0x1 
+ .rodata.g_defaultClockConfigRun
+                0x0000000000005ad0       0x20 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj)
+                0x0000000000005ad0                g_defaultClockConfigRun
+ .rodata.s_lpuartClock
+                0x0000000000005af0       0x14 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .rodata.fllFactorTable.6757
+                0x0000000000005b04       0x10 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .rodata.str1.4
+                0x0000000000005b14        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o)
+ .rodata.str1.4
+                0x0000000000005b18        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_pow.o)
+                                          0x1 (size before relaxing)
+ *fill*         0x0000000000005b1c        0x4 
+ .rodata.TWO52  0x0000000000005b20       0x10 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_rint.o)
+ .rodata.str1.1
+                0x0000000000005b30        0x2 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ *fill*         0x0000000000005b32        0x2 
+ .rodata._global_impure_ptr
+                0x0000000000005b34        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+                0x0000000000005b34                _global_impure_ptr
+ .rodata.str1.1
+                0x0000000000005b38       0x12 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_float.o)
+ .rodata.str1.1
+                0x0000000000005b4a        0xd /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-dtoa.o)
+                                          0xf (size before relaxing)
+ .rodata.str1.1
+                0x0000000000005b57        0x8 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+                                          0xb (size before relaxing)
+ *fill*         0x0000000000005b5f        0x1 
+ .rodata.p05.5410
+                0x0000000000005b60        0xc /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ *fill*         0x0000000000005b6c        0x4 
+ .rodata.__mprec_bigtens
+                0x0000000000005b70       0x28 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x0000000000005b70                __mprec_bigtens
+ .rodata.__mprec_tens
+                0x0000000000005b98       0xc8 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+                0x0000000000005b98                __mprec_tens
+ *(.glue_7)
+ .glue_7        0x0000000000005c60        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000000005c60        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000000005c60        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ *(.init)
+ .init          0x0000000000005c60        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+                0x0000000000005c60                _init
+ .init          0x0000000000005c64        0x8 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+ *(.fini)
+ .fini          0x0000000000005c6c        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+                0x0000000000005c6c                _fini
+ .fini          0x0000000000005c70        0x8 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+                0x0000000000005c78                . = ALIGN (0x4)
+
+.vfp11_veneer   0x0000000000005c78        0x0
+ .vfp11_veneer  0x0000000000005c78        0x0 linker stubs
+
+.v4_bx          0x0000000000005c78        0x0
+ .v4_bx         0x0000000000005c78        0x0 linker stubs
+
+.iplt           0x0000000000005c78        0x0
+ .iplt          0x0000000000005c78        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0000000000005c78        0x8
+                0x0000000000005c78                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x0000000000005c78        0x8 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.exidx     0x0000000000005c80        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+                                          0x8 (size before relaxing)
+                0x0000000000005c80                __exidx_end = .
+
+.rel.dyn        0x0000000000005c80        0x0
+ .rel.iplt      0x0000000000005c80        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+
+.ctors          0x0000000000005c80        0x0
+                0x0000000000005c80                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x0000000000005c80                __CTOR_END__ = .
+
+.dtors          0x0000000000005c80        0x0
+                0x0000000000005c80                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x0000000000005c80                __DTOR_END__ = .
+
+.preinit_array  0x0000000000005c80        0x0
+                0x0000000000005c80                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x0000000000005c80                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0000000000005c80        0x4
+                0x0000000000005c80                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000000005c80        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+                0x0000000000005c84                PROVIDE (__init_array_end, .)
+
+.fini_array     0x0000000000005c84        0x4
+                [!provide]                        PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000000005c84        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end, .)
+                0x0000000000005c88                __etext = .
+                0x0000000000005c88                __DATA_ROM = .
+
+.interrupts_ram
+                0x000000001fff0000        0x0
+                0x000000001fff0000                . = ALIGN (0x4)
+                0x000000001fff0000                __VECTOR_RAM__ = .
+                0x000000001fff0000                __interrupts_ram_start__ = .
+ *(.m_interrupts_ram)
+                0x000000001fff0000                . = (. + M_VECTOR_RAM_SIZE)
+                0x000000001fff0000                . = ALIGN (0x4)
+                0x000000001fff0000                __interrupts_ram_end__ = .
+                0x0000000000000000                __VECTOR_RAM = DEFINED (__ram_vector_table__)?__VECTOR_RAM__:ORIGIN (m_interrupts)
+                0x0000000000000000                __RAM_VECTOR_TABLE_SIZE_BYTES = DEFINED (__ram_vector_table__)?(__interrupts_ram_end__ - __interrupts_ram_start__):0x0
+
+.data           0x000000001fff0000       0xc0 load address 0x0000000000005c88
+                0x000000001fff0000                . = ALIGN (0x4)
+                0x000000001fff0000                __DATA_RAM = .
+                0x000000001fff0000                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.ws2812b_config_default
+                0x000000001fff0000       0x10 CMakeFiles/ubirch-template.dir/main.c.obj
+                0x000000001fff0000                ws2812b_config_default
+ .data.s_slowIrcFreq
+                0x000000001fff0010        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .data.s_fastIrcFreq
+                0x000000001fff0014        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .data.SystemCoreClock
+                0x000000001fff0018        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(system_MK82F25615.c.obj)
+                0x000000001fff0018                SystemCoreClock
+ .data.__fdlib_version
+                0x000000001fff001c        0x1 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_lib_ver.o)
+                0x000000001fff001c                __fdlib_version
+ *fill*         0x000000001fff001d        0x3 
+ .data.impure_data
+                0x000000001fff0020       0x60 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x000000001fff0080        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+                0x000000001fff0080                _impure_ptr
+ .data.lconv    0x000000001fff0084       0x38 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ *(.jcr*)
+ .jcr           0x000000001fff00bc        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .jcr           0x000000001fff00bc        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+                0x000000001fff00c0                . = ALIGN (0x4)
+                0x000000001fff00c0                __data_end__ = .
+                0x0000000000005d48                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x0000000000040000                text_end = (ORIGIN (m_text) + LENGTH (m_text))
+                0x0000000000000001                ASSERT ((__DATA_END <= text_end), region m_text overflowed with text and data)
+                0x0000000000000800                USB_RAM_GAP = DEFINED (__usb_ram_size__)?__usb_ram_size__:0x800
+
+.igot.plt       0x000000001fff00c0        0x0 load address 0x0000000000005d48
+ .igot.plt      0x000000001fff00c0        0x0 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+
+.bss            0x000000001fff00c0      0x944 load address 0x0000000000005d48
+                0x000000001fff00c0                . = ALIGN (0x4)
+                0x000000001fff00c0                __START_BSS = .
+                0x000000001fff00c0                __bss_start__ = .
+ *(.bss)
+ .bss           0x000000001fff00c0       0x1c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ *(.bss*)
+ .bss.initialized
+                0x000000001fff00dc        0x1 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+ .bss.clk_timer_idx
+                0x000000001fff00dd        0x1 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(ws2812b.c.obj)
+ .bss.shifter_idx
+                0x000000001fff00de        0x1 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(ws2812b.c.obj)
+ *fill*         0x000000001fff00df        0x1 
+ .bss.runBootloader
+                0x000000001fff00e0        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(board.c.obj)
+ .bss.s_flexioHandle
+                0x000000001fff00e4        0x8 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .bss.s_flexioType
+                0x000000001fff00ec        0x8 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .bss.s_flexioIsr
+                0x000000001fff00f4        0x8 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .bss.s_lpuartHandle
+                0x000000001fff00fc       0x14 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .bss.s_lpuartIsr
+                0x000000001fff0110        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .bss.g_xtal0Freq
+                0x000000001fff0114        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x000000001fff0114                g_xtal0Freq
+ .bss.g_xtal32Freq
+                0x000000001fff0118        0x4 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+                0x000000001fff0118                g_xtal32Freq
+ .bss.s_debugConsole
+                0x000000001fff011c       0x10 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+ .bss.__malloc_sbrk_start
+                0x000000001fff012c        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-mallocr.o)
+                0x000000001fff012c                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x000000001fff0130        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-mallocr.o)
+                0x000000001fff0130                __malloc_free_list
+ .bss.heap_end.4169
+                0x000000001fff0134        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+                0x000000001fff0200                . = ALIGN (0x200)
+ *fill*         0x000000001fff0138       0xc8 
+                0x000000001fff0200                USB_RAM_START = .
+                0x000000001fff0a00                . = (. + USB_RAM_GAP)
+ *fill*         0x000000001fff0200      0x800 
+ *(COMMON)
+ COMMON         0x000000001fff0a00        0x4 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-reent.o)
+                0x000000001fff0a00                errno
+                0x000000001fff0a04                . = ALIGN (0x4)
+                0x000000001fff0a04                __bss_end__ = .
+                0x000000001fff0a04                __END_BSS = .
+
+.heap           0x0000000020000000     0x2000
+                0x0000000020000000                . = ALIGN (0x8)
+                0x0000000020000000                __end__ = .
+                0x0000000020000000                PROVIDE (end, .)
+                0x0000000020000000                __HeapBase = .
+                0x0000000020002000                . = (. + HEAP_SIZE)
+ *fill*         0x0000000020000000     0x2000 
+                0x0000000020002000                __HeapLimit = .
+                0x0000000020002000                __heap_limit = .
+
+.stack          0x0000000020002000     0x2000
+                0x0000000020002000                . = ALIGN (0x8)
+                0x0000000020004000                . = (. + STACK_SIZE)
+ *fill*         0x0000000020002000     0x2000 
+
+m_usb_bdt       0x000000001fff0200        0x0
+ *(m_usb_bdt)
+                0x000000001fff0200                USB_RAM_BDT_END = .
+
+m_usb_global
+ *(m_usb_global)
+                0x0000000020030000                __StackTop = (ORIGIN (m_data_2) + LENGTH (m_data_2))
+                0x000000002002e000                __StackLimit = (__StackTop - STACK_SIZE)
+                0x0000000020030000                PROVIDE (__stack, __StackTop)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x22 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtbegin.o
+ .ARM.attributes
+                0x0000000000000056       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.attributes
+                0x0000000000000076       0x39 CMakeFiles/ubirch-template.dir/main.c.obj
+ .ARM.attributes
+                0x00000000000000af       0x39 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+ .ARM.attributes
+                0x00000000000000e8       0x39 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(ws2812b.c.obj)
+ .ARM.attributes
+                0x0000000000000121       0x39 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(board.c.obj)
+ .ARM.attributes
+                0x000000000000015a       0x39 /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj)
+ .ARM.attributes
+                0x0000000000000193       0x39 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .ARM.attributes
+                0x00000000000001cc       0x39 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_pit.c.obj)
+ .ARM.attributes
+                0x0000000000000205       0x39 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .ARM.attributes
+                0x000000000000023e       0x39 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_gpio.c.obj)
+ .ARM.attributes
+                0x0000000000000277       0x39 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .ARM.attributes
+                0x00000000000002b0       0x1f /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(startup_MK82F25615.S.obj)
+ .ARM.attributes
+                0x00000000000002cf       0x39 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+ .ARM.attributes
+                0x0000000000000308       0x39 /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(system_MK82F25615.c.obj)
+ .ARM.attributes
+                0x0000000000000341       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_modf.o)
+ .ARM.attributes
+                0x0000000000000375       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o)
+ .ARM.attributes
+                0x00000000000003a9       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_pow.o)
+ .ARM.attributes
+                0x00000000000003dd       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x0000000000000411       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x0000000000000445       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_finite.o)
+ .ARM.attributes
+                0x0000000000000479       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x00000000000004ad       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x00000000000004e1       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x0000000000000515       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_rint.o)
+ .ARM.attributes
+                0x0000000000000549       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_scalbn.o)
+ .ARM.attributes
+                0x000000000000057d       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_copysign.o)
+ .ARM.attributes
+                0x00000000000005b1       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000000005e5       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000619       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000000000064d       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000681       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000006b5       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_float.o)
+ .ARM.attributes
+                0x00000000000006e9       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x000000000000071d       0x1b /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000738       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x000000000000076c       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000000000007a0       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000000000007d4       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000808       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x000000000000083c       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-callocr.o)
+ .ARM.attributes
+                0x0000000000000870       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000000000008a4       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000000008d8       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000000000000090c       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000940       0x22 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000000962       0x22 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000000000000984       0x22 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000000009a6       0x22 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000000000009c8       0x22 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000000009ea       0x22 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x0000000000000a0c       0x22 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000000000000a2e       0x22 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000000000000a50       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_fixdfdi.o)
+ .ARM.attributes
+                0x0000000000000a84       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_fixunsdfdi.o)
+ .ARM.attributes
+                0x0000000000000ab8       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x0000000000000aec       0x22 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000b0e       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x0000000000000b42       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000b76       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtend.o
+ .ARM.attributes
+                0x0000000000000baa       0x22 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data_2 overflowed with stack and heap)
+OUTPUT(ubirch-template.elf elf32-littlearm)
+
+.comment        0x0000000000000000       0x6e
+ .comment       0x0000000000000000       0x6e CMakeFiles/ubirch-template.dir/main.c.obj
+                                         0x6f (size before relaxing)
+ .comment       0x000000000000006e       0x6f /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(timer.c.obj)
+ .comment       0x000000000000006e       0x6f /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/firmware/firmware.a(ws2812b.c.obj)
+ .comment       0x000000000000006e       0x6f /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(board.c.obj)
+ .comment       0x000000000000006e       0x6f /home/dothraki/ubirch-meta/build/MinSizeRel/ubirch1r03k01/fw/board/ubirch1r03k01/board.a(clock_config.c.obj)
+ .comment       0x000000000000006e       0x6f /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_flexio.c.obj)
+ .comment       0x000000000000006e       0x6f /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_pit.c.obj)
+ .comment       0x000000000000006e       0x6f /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_lpuart.c.obj)
+ .comment       0x000000000000006e       0x6f /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_gpio.c.obj)
+ .comment       0x000000000000006e       0x6f /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_clock.c.obj)
+ .comment       0x000000000000006e       0x6f /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(fsl_debug_console.c.obj)
+ .comment       0x000000000000006e       0x6f /home/dothraki/ubirch-meta/build/MinSizeRel/MK82F25615/ksdk/ksdk20.a(system_MK82F25615.c.obj)
+
+.debug_frame    0x0000000000000000      0x9a4
+ .debug_frame   0x0000000000000000       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_modf.o)
+ .debug_frame   0x0000000000000034       0x6c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-w_pow.o)
+ .debug_frame   0x00000000000000a0       0x64 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_pow.o)
+ .debug_frame   0x0000000000000104       0x30 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x0000000000000134       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x0000000000000154       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_finite.o)
+ .debug_frame   0x0000000000000174       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x0000000000000194       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_nan.o)
+ .debug_frame   0x00000000000001b4       0x3c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_rint.o)
+ .debug_frame   0x00000000000001f0       0x2c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x000000000000021c       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a(lib_a-s_copysign.o)
+ .debug_frame   0x000000000000023c       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x000000000000025c       0x28 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000284       0x2c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000000002b0       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000000002d0       0x88 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_float.o)
+ .debug_frame   0x0000000000000358       0x60 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000000000003b8       0x6c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-dtoa.o)
+ .debug_frame   0x0000000000000424       0x98 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-locale.o)
+ .debug_frame   0x00000000000004bc       0x30 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x00000000000004ec       0x28 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000514      0x238 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mprec.o)
+ .debug_frame   0x000000000000074c       0x2c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-callocr.o)
+ .debug_frame   0x0000000000000778       0x2c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000000000007a4       0x2c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000000007d0       0x30 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000800       0x5c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x000000000000085c       0x44 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x00000000000008a0       0x2c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000000008cc       0x38 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_fixdfdi.o)
+ .debug_frame   0x0000000000000904       0x2c /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_fixunsdfdi.o)
+ .debug_frame   0x0000000000000930       0x34 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000000000000964       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+ .debug_frame   0x0000000000000984       0x20 /usr/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(_exit.o)
